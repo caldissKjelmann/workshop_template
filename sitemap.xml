@@ -3,16 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://caldissKjelmann.github.io/workshop_template/</loc>
+    <loc>https://caldissKjelmann.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://caldissKjelmann.github.io/workshop_template/categories/</loc>
+    <loc>https://caldissKjelmann.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>https://caldissKjelmann.github.io/workshop_template/tags/</loc>
+    <loc>https://caldissKjelmann.github.io/tags/</loc>
   </url>
   
 </urlset>
