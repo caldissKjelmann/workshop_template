@@ -3,32 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://caldissKjelmann.github.io/install/</loc>
+    <loc>https://caldissKjelmann.github.io/workshop_template/install/</loc>
   </url>
   
   <url>
-    <loc>https://caldissKjelmann.github.io/basics/</loc>
+    <loc>https://caldissKjelmann.github.io/workshop_template/basics/</loc>
   </url>
   
   <url>
-    <loc>https://caldissKjelmann.github.io/types/</loc>
+    <loc>https://caldissKjelmann.github.io/workshop_template/types/</loc>
   </url>
   
   <url>
-    <loc>https://caldissKjelmann.github.io/ide/</loc>
+    <loc>https://caldissKjelmann.github.io/workshop_template/ide/</loc>
   </url>
   
   <url>
-    <loc>https://caldissKjelmann.github.io/</loc>
+    <loc>https://caldissKjelmann.github.io/workshop_template/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://caldissKjelmann.github.io/categories/</loc>
+    <loc>https://caldissKjelmann.github.io/workshop_template/categories/</loc>
   </url>
   
   <url>
-    <loc>https://caldissKjelmann.github.io/tags/</loc>
+    <loc>https://caldissKjelmann.github.io/workshop_template/tags/</loc>
   </url>
   
 </urlset>
