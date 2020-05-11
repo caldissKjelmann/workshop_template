@@ -3,6 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://caldissKjelmann.github.io/install/</loc>
+  </url>
+  
+  <url>
+    <loc>https://caldissKjelmann.github.io/basics/</loc>
+  </url>
+  
+  <url>
+    <loc>https://caldissKjelmann.github.io/types/</loc>
+  </url>
+  
+  <url>
+    <loc>https://caldissKjelmann.github.io/ide/</loc>
+  </url>
+  
+  <url>
     <loc>https://caldissKjelmann.github.io/</loc>
     <priority>0</priority>
   </url>
